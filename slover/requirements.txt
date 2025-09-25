@@ -1,0 +1,11 @@
+# 数独自动求解器依赖库
+opencv-python>=4.8.0
+numpy>=1.24.0
+pytesseract>=0.3.10
+pyautogui>=0.9.54
+pillow>=10.0.0
+
+# 注意：需额外安装Tesseract OCR引擎
+# Windows: https://github.com/UB-Mannheim/tesseract/wiki
+# Linux: sudo apt install tesseract-ocr
+# Mac: brew install tesseract

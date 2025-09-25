@@ -1,0 +1,10 @@
+{
+  "x": 385,
+  "y": 245,
+  "width": 750,
+  "height": 750,
+  "thread_count": 32,
+  "outer_line_width": 20,
+  "inner_line_width": 15,
+  "thick_line_width": 20
+}
